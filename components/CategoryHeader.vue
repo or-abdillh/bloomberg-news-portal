@@ -8,7 +8,7 @@
     <!-- Categories -->
     <section class="w-10/12 flex justify-between gap-4">
       <template v-for="category in categories">
-        <p class="text-lg text-gray-500 font-semibold">{{ category }}</p>
+        <p class="cursor-pointer text-lg text-gray-500 font-semibold">{{ category }}</p>
       </template>
     </section>
     <!-- CTA's -->

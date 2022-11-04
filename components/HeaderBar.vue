@@ -1,7 +1,7 @@
 <style scoped></style>
 
 <template>
-  <header class="px-8">
+  <header class="px-8 sticky top-0 left-0 right-0 bg-white z-20">
     <!-- main wrapper -->
     <section class="flex justify-between items-center border-b border-gray-10 py-5">
       <!-- buttons -->
